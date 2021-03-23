@@ -1,0 +1,17 @@
+﻿Default
+Unique
+Super
+Burst
+Overstrike
+Ultra
+Brave Ultra
+Arcane Overstrike
+Chain
+Glint
+Awakening
+Sync
+Record Materia
+Legend Materia
+Hero Ability
+Limit Break Overstrike
+Limit Break Glint
