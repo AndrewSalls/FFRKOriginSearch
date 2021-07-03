@@ -15,3 +15,5 @@ Legend Materia
 Hero Ability
 Limit Break Overstrike
 Limit Break Glint
+Arcane Dyad
+Limit Break Guardian

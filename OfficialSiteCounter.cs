@@ -111,6 +111,8 @@ namespace FFRKOriginSearch
                     return "Cecil (Paladin)";
                 case "Darkness(Cecil)":
                     return "Cecil (Dark Knight)";
+                case "Magical Mimicry(Gogo)":
+                    return "Gogo (V)";
                 default:
                     return inner;
             }
